@@ -1,7 +1,7 @@
 openapi: '3.0.0'
 info:
-  version: '1.0.0'
-  title: 'API 7'
+  version: '1.0'
+  title: 'API 8'
   description: Buy or rent spacecrafts
 
 paths:
